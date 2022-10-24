@@ -1,0 +1,84 @@
+{
+  "records": [
+    {
+      "id": "rec17MwFZRFyFKg5b",
+      "createdTime": "2022-10-24T12:26:36.000Z",
+      "fields": {
+        "Copy": "This is for testing. test 7",
+        "Key": "New_test"
+      }
+    },
+    {
+      "id": "rec20CjrcNYcSCB4r",
+      "createdTime": "2022-10-22T06:19:18.000Z",
+      "fields": {
+        "Copy": "It is {time, datetime}",
+        "Key": "time"
+      }
+    },
+    {
+      "id": "rec7oTEl7MKPOEJQV",
+      "createdTime": "2022-10-24T14:00:14.000Z",
+      "fields": {
+        "Copy": "Goodbye",
+        "Key": "bye"
+      }
+    },
+    {
+      "id": "recAy1YLobRu4E2tp",
+      "createdTime": "2022-10-18T12:08:36.000Z",
+      "fields": {
+        "Copy": "Hi  {name}, welcome to {app}!",
+        "Key": "welcome"
+      }
+    },
+    {
+      "id": "recH2ktLliVjtRMxG",
+      "createdTime": "2022-10-18T12:13:12.000Z",
+      "fields": {
+        "Copy": "Meeting updated on {updated_at, datetime}",
+        "Key": "meeting.updated_at"
+      }
+    },
+    {
+      "id": "recMC7oSq4GeAb3Oq",
+      "createdTime": "2022-10-18T12:08:36.000Z",
+      "fields": {
+        "Copy": "Meeting created on {created_at, datetime}",
+        "Key": "meeting.created_at"
+      }
+    },
+    {
+      "id": "recMeyZWrpu7Yz0cW",
+      "createdTime": "2022-10-19T12:05:14.000Z",
+      "fields": {
+        "Copy": "This is dynamic now. Test 7",
+        "Key": "test_case"
+      }
+    },
+    {
+      "id": "recSfSbdhCfvKew3N",
+      "createdTime": "2022-10-24T12:19:37.000Z",
+      "fields": {
+        "Copy": "This is for testing... Test 6",
+        "Key": "new_record"
+      }
+    },
+    {
+      "id": "recbtWXzRUkZHXxAZ",
+      "createdTime": "2022-10-21T17:26:04.000Z",
+      "fields": {
+        "Copy": "Important Attributes of Environment Variables",
+        "Key": "api_only"
+      }
+    },
+    {
+      "id": "recjT5uEeStqKrsum",
+      "createdTime": "2022-10-18T12:08:36.000Z",
+      "fields": {
+        "Copy": "Hello! {welcome} You're on the Premium plan.",
+        "Key": "welcomePremium"
+      }
+    }
+  ]
+}
